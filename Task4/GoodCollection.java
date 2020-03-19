@@ -7,8 +7,6 @@ import java.util.*;
 
 public class GoodCollection<T> extends AbstractCollection {
 
-    // TODO EndlessArray
-
     private static final int INIT_SIZE = 10000;
 
     private T[] data;
