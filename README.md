@@ -1,9 +1,9 @@
 # ДЗ
   
 ### 4  
-4.2)  
- - [Неизменяемая коллекция](https://github.com/ibragimov-adel/homework/blob/master/Task4/SimpleCollection.java)  
- - [Изменяемая коллекция](https://github.com/ibragimov-adel/homework/blob/master/Task4/GoodCollection.java)  
+ - 4.2)  
+     - [Неизменяемая коллекция](https://github.com/ibragimov-adel/homework/blob/master/Task4/SimpleCollection.java)  
+     - [Изменяемая коллекция](https://github.com/ibragimov-adel/homework/blob/master/Task4/GoodCollection.java)  
   
 ### 6    
 - [6.1](https://github.com/ibragimov-adel/homework/blob/master/Task6/MMap.java)  
