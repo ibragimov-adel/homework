@@ -14,3 +14,12 @@
 - [7.6](https://github.com/ibragimov-adel/homework/blob/master/Task7/SetStringCounter.java)  
 - [7.7](https://github.com/ibragimov-adel/homework/blob/master/Task7/MapKeysConcat.java)  
 - [7.8](https://github.com/ibragimov-adel/homework/blob/master/Task7/CollectionLongWordsCounter.java)  
+
+# АиСД
+
+### 6
+ - [6.1](https://github.com/ibragimov-adel/homework/blob/master/algorithms/mergeSort.java)
+ - [6.4](https://github.com/ibragimov-adel/homework/blob/master/algorithms/Karacuba.java)
+
+### 7
+ - [7.1](https://github.com/ibragimov-adel/homework/blob/master/algorithms/BinaryTree.java)
