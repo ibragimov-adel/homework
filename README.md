@@ -13,7 +13,10 @@
 - [7.5](https://github.com/ibragimov-adel/homework/blob/master/Task7/PrintBigger.java)  
 - [7.6](https://github.com/ibragimov-adel/homework/blob/master/Task7/SetStringCounter.java)  
 - [7.7](https://github.com/ibragimov-adel/homework/blob/master/Task7/MapKeysConcat.java)  
-- [7.8](https://github.com/ibragimov-adel/homework/blob/master/Task7/CollectionLongWordsCounter.java)  
+- [7.8](https://github.com/ibragimov-adel/homework/blob/master/Task7/CollectionLongWordsCounter.java)
+
+### 8
+ - [8](https://github.com/ibragimov-adel/homework/blob/master/Task8/IOStream.java)
 
 # АиСД
 
